@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 SMOKING SPAM - 321 METHOD 
+=======
+>>>>>>> nutrition
 
 https://heygrillhey.com/3-2-1-ribs-perfect-fall-off-the-bone-ribs/
 //TODO Add Nutritional Information
